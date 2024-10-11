@@ -1,0 +1,12 @@
+2024-10-11 21:37:58,593 - INFO - Проверка версии прошла успешно.
+2024-10-11 21:38:02,399 - INFO - GoodByeDPI запущен/запросил права администратора.
+2024-10-11 21:38:02,400 - INFO - Иконка icon_successfully.ico была поставлена.
+2024-10-11 21:38:02,419 - ERROR - Some trouble with the icon (D:\Projects\Python\ArbuzTube\output\ArbuzTube 1.0.0.1.1.3\ArbuzTube.ico): (2, 'LoadImage', 'Не удается найти указанный файл.')
+2024-10-11 21:38:12,076 - INFO - GoodByeDPI запущен/запросил права администратора.
+2024-10-11 21:38:12,077 - INFO - Иконка icon_successfully.ico была поставлена.
+2024-10-11 21:38:12,096 - ERROR - Some trouble with the icon (D:\Projects\Python\ArbuzTube\output\ArbuzTube 1.0.0.1.1.3\ArbuzTube.ico): (2, 'LoadImage', 'Не удается найти указанный файл.')
+2024-10-11 21:38:13,305 - INFO - Процесс goodbyedpi.exe был завершён.
+2024-10-11 21:38:14,358 - INFO - Процесс успешно остановлен.
+2024-10-11 21:38:33,365 - INFO - GoodByeDPI запущен/запросил права администратора.
+2024-10-11 21:38:33,365 - INFO - Иконка icon_successfully.ico была поставлена.
+2024-10-11 21:38:33,383 - ERROR - Some trouble with the icon (D:\Projects\Python\ArbuzTube\output\ArbuzTube 1.0.0.1.1.3\ArbuzTube.ico): (2, 'LoadImage', 'Не удается найти указанный файл.')
